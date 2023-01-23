@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Elder J C. @eljc 
 - 👀 I’m interested in Java and Angular
 - 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on projects Spring Boot, Angular and TypeScript
+- 💞️ I’m looking to collaborate on projects Spring Boot, Python and Go
 - 📫 How to reach me ...
 
 <!---
